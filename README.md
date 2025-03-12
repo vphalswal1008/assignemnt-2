@@ -1,2 +1,2 @@
-# assignemnt-2
-Fetcher_of _research papers
+# Assignment_Fectch_papers
+ Code of fetch papers form Pubmed
